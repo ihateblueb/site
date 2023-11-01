@@ -1,0 +1,19 @@
+:root {
+    --bg1: #000;
+    --bg2: #241d2b;
+    --bg3: #32273d;
+
+    --txt1: #fff;
+    --txt2: #f1d4ff;
+
+    --border: #ffffff15;
+}
+
+body {
+    background-color: var(--bg2);
+    color: var(--txt2);
+}
+
+h1, h2, h3 {
+    color: var(--txt1);
+}

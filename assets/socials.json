@@ -1,0 +1,32 @@
+{
+    "fedi": {
+        "emoji": "",
+        "color": "",
+        "text": "@ihateblueb@wetdry.world",
+        "url": "https://wetdry.world/@ihateblueb"
+    },
+    "fedi-alt": {
+        "emoji": "",
+        "color": "",
+        "text": "@blueb@eepy.zone",
+        "url": "https://eepy.zone/@blueb"
+    },
+    "discord": {
+        "emoji": "",
+        "color": "",
+        "text": "@ihateblueb",
+        "url": ""
+    },
+    "github": {
+        "emoji": "",
+        "color": "",
+        "text": "@ihateblueb",
+        "url": "https://github.com/ihateblueb"
+    },
+    "git-gay": {
+        "emoji": "",
+        "color": "",
+        "text": "@blueb",
+        "url": "https://git.gay/blueb"
+    }
+}

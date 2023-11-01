@@ -1,0 +1,38 @@
+{
+    "aster": {
+        "emoji": "",
+        "color": "",
+        "text": "Aster",
+        "lang": "JavaScript",
+        "tools": "Nuxt, Vue, Vite",
+        "description": "Aster is a web Mastodon client that's intended to support forks of Mastodon such as Glitch or Chuckya.",
+        "url": "https://github.com/ihateblueb/aster"
+    },
+    "coalt-cli": {
+        "emoji": "",
+        "color": "",
+        "text": "cobalt-cli",
+        "lang": "Rust",
+        "tools": "",
+        "description": "cobalt-cli is a CLI tool to interact with the cobalt API. It's a small little tool that gets the job done, but isn't the best.",
+        "url": "https://github.com/ihateblueb/cobalt-cli"
+    },
+    "orchid": {
+        "emoji": "",
+        "color": "",
+        "text": "Orchid",
+        "lang": "",
+        "tools": "Towny, Slimefun, Fishing",
+        "description": "Orchid is a community built on the hope to make Minecraft a more accepting and comfortable place while still offering excellent gameplay.",
+        "url": "https://orchidmc.me/"
+    },
+    "hyacinth": {
+        "emoji": "",
+        "color": "",
+        "text": "HyacinthHello",
+        "lang": "Java",
+        "tools": "",
+        "description": "",
+        "url": "https://github.com/ihateblueb/hyacinthhello"
+    }
+}
